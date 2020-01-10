@@ -1,5 +1,13 @@
 # Assignment
 
+## Installation Instructions
+
+- run `git clone https://github.com/mikolas2788/application_assignment.git`
+- run `npm install`
+- run `node index.js`
+- navigate to `http://localhost:3000/` on browser
+- enjoy!
+
 ## Objectives
 
 By the end of this project you will:
