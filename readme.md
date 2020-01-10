@@ -2,10 +2,14 @@
 
 ## Installation Instructions
 
-- On terminal, run the following commands.
+- on terminal, run the following commands.
+
     `git clone https://github.com/mikolas2788/application_assignment.git`
+
     `npm install`
+
     `node index.js`
+
 - navigate to `http://localhost:3000/` on browser.
 - enjoy!
 
